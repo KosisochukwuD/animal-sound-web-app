@@ -7,6 +7,7 @@
 .container{
 background: linear-gradient(to right, #87CEEB, #C8E6C9);
     margin: auto;
+    width: 100%;
 }
 header {
   text-align: center;
@@ -73,3 +74,4 @@ header p {
     width: 100%;
     
 }
+/* Birthday Overlay */
